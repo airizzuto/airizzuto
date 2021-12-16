@@ -27,11 +27,23 @@
 
 ### Contact
 
-<a href="https://www.linkedin.com/in/airizzuto/">
-  <img src="https://img.shields.io/badge/LinkedIn-airizzuto-blue?style=flat-square">
-</a>
-
-![Discord](<https://img.shields.io/badge/Discord-Acrux%231636-blueviolet?style=flat-square>)
+<ul>
+  <li>
+    <a href="https://twitter.com/airizzuto">
+      <img src="https://img.shields.io/badge/Twitter-@airizzuto-white?style=flat-square&logo=twitter" />
+    </a>
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/airizzuto/">
+      <img src="https://img.shields.io/badge/LinkedIn-airizzuto-blue?style=flat-square" />
+    </a>
+  </li>
+  <li>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Discord-Acrux%231636-blueviolet?style=flat-square" />
+    </a>
+  </li>
+</ul>
 
 ----
 
@@ -39,4 +51,4 @@
 
 #### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airizzuto)](https://github.com/airizzuto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airizzuto&theme=dark)](https://github.com/airizzuto/github-readme-stats)
