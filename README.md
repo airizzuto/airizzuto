@@ -3,7 +3,7 @@
 
 ## Full Stack Developer
 
-👋 Hi there! I'm @airizzuto a Full Stack Developer, CAD Designer, Thermal and Structural CFD/FEM Analyst and Pilot of Airplane. Welcome to my github!
+👋 Hi there! I'm @airizzuto a Full Stack Developer, CAD Designer, Thermal and Structural CFD/FEA Analyst and Pilot of Airplane. Welcome to my github!
 
 ### Skills
 
