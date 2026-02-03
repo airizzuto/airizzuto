@@ -41,7 +41,7 @@
   </li>
   <li>
     <a href="#">
-      <img src="https://img.shields.io/badge/Discord-arsot13%231636-blueviolet?style=flat-square" />
+      <img src="https://img.shields.io/badge/Discord-arsot13-blueviolet?style=flat-square" />
     </a>
   </li>
 </ul>
