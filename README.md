@@ -1,9 +1,9 @@
 
 # Agustín Ignacio Rizzuto
 
-## Full Stack Developer
+## Software Developer
 
-👋 Hi there! I'm @airizzuto a Full Stack Developer, CAD Designer, Thermal and Structural CFD/FEA Analyst and Pilot of Airplane. Welcome to my github!
+👋 Hi there! I'm @airizzuto a Software Developer, CAD Designer, Thermal and Structural CFD/FEA Analyst and Airplane Pilot. Welcome to my github!
 
 ### Skills
 
@@ -41,7 +41,7 @@
   </li>
   <li>
     <a href="#">
-      <img src="https://img.shields.io/badge/Discord-Acrux%231636-blueviolet?style=flat-square" />
+      <img src="https://img.shields.io/badge/Discord-arsot13%231636-blueviolet?style=flat-square" />
     </a>
   </li>
 </ul>
